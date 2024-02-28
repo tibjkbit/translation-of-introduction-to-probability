@@ -15,3 +15,6 @@ introduction to probability 中文翻译 第二版
 * 翻译文本的 Markdown 版本位于 md 文件夹中，PDF 版本位于 pdf 文件夹中。
 
 * 特别感谢刘森同学对第二章的文本校对工作。
+
+** 最近更新
+2024.2.28
